@@ -1,0 +1,75 @@
+Tittle :- A Figma Web Design Internship
+
+CHAPTER 1: INTRODUCTION
+1.1 Introduction to the Internship at Figma
+The primary purpose of this internship at Finlogic Technologies India Pvt Ltd., NJ Group Company, was to gain practical experience in the field of natural language processing (NLP) and chatbot development. This project aimed to leverage the capabilities of the Retrieval-Augmented Generation (RAG) model to create an advanced chatbot, providing hands-on exposure to cutting-edge AI technologies and their real-world applications.
+
+1.2 Purpose of the Internship
+The primary purpose of my internship at Figma was twofold: to deepen my understanding and proficiency in using Figma’s tools and methodologies, and to gain practical experience in designing and prototyping digital interfaces. This experience was crucial in bridging the gap between theoretical knowledge acquired through academic studies and its practical application in real-world design projects.
+
+1.3 Scope of the Project
+The scope of my internship project at Figma centered around redesigning sections of a website. This encompassed:
+
+Revamping the homepage to enhance visual appeal and user navigation.
+Developing distinct sections for various product categories to cater to diverse audience needs.
+Creating specialized subsections within categories for a personalized user experience.
+Designing auxiliary pages such as help and sign-in pages to ensure seamless navigation and user interaction.
+1.4 Objectives
+Throughout the internship, the main objectives were:
+
+Skill Development: Enhancing proficiency in design tools, including collaborative features, prototyping capabilities, and version control systems.
+Application of Design Principles: Applying responsive design principles and adhering to branding guidelines to create cohesive and user-centric digital experiences.
+Collaboration and Iteration: Collaborating effectively with team members to gather feedback, iterate on designs, and implement improvements based on usability testing and stakeholder input.
+Professional Growth: Gaining practical insights into UI/UX design methodologies, project management, and client interaction within a professional setting.
+CHAPTER 2: PROJECT OVERVIEW
+2.1 Overview of Figma
+Figma is a cloud-based collaborative design tool that revolutionizes the way teams work on digital design projects. It allows multiple users to simultaneously work on the same design file in real-time, making it ideal for teams spread across different locations. Figma supports seamless design collaboration, interactive prototyping, and version control, making it a preferred choice for designers, developers, and product teams worldwide.
+
+
+2.2 Overview of the Project Goals
+The primary goal of this internship project at Figma was to redesign and enhance specific sections of a website. This included modernizing the interface to improve user experience, increase engagement, and align with branding guidelines. Key objectives encompassed:
+
+Homepage Redesign: Enhancing the visual appeal and usability of the homepage.
+Sectional Enhancements: Designing sections for different product categories to cater to diverse user demographics.
+Responsive Design Implementation: Ensuring sections are responsive and accessible across devices.
+Integration of Design Principles: Applying user-centered design principles, including usability testing and iterative processes.
+2.3 Project Requirements and Specifications
+The internship project aimed to redesign sections of a website to enhance user experience and modernize interface design. Key requirements included:
+
+User-Centered Design: Using research and feedback to ensure the redesign meets user needs.
+Visual and Functional Enhancement: Creating visually appealing designs that function well across different sections.
+Responsive Design: Ensuring sections work smoothly on various devices.
+Collaborative Iteration: Using Figma’s collaboration tools to gather feedback continuously and make iterative design improvements.
+CHAPTER 3: IMPLEMENTATION
+3.1 Planning and Design Phase
+During the planning and design phase, I studied customer feedback to understand improvements needed. Using Figma, I created sketches and early versions of website pages, focusing on layout and usability. Iterative changes were made to improve designs.
+
+
+3.2 Tools and Technology Used
+Throughout the internship, Figma was used extensively for design tasks. Figma facilitated easy navigation and rapid prototyping, allowing creation of wireframes, high-fidelity prototypes, and interactive mockups. Design elements like images and icons were integrated seamlessly into prototypes.
+
+3.3 Development Process
+The internship began with research on shopping websites to understand trends and user expectations. Focus was then placed on redesigning a prominent website to enhance user experience. Wireframes and prototypes were created for each section using Figma, ensuring seamless navigation and interaction. Sections were integrated into a unified design framework, maintaining brand identity.
+
+CHAPTER 4: RESULTS AND DISCUSSION
+Throughout the internship, challenges in text and image alignment were addressed, enhancing user engagement. A consistent design system was established, ensuring visual appeal and accessibility. User preferences for a clean interface were met, improving navigation and decision-making.
+
+4.1 Challenges in Text and Image Alignment
+Achieving consistent text and image alignment posed challenges initially. Techniques like grid-based layouts and flexible design elements in Figma were used for coherence and readability. Iterative refinement improved visual hierarchy and engagement.
+
+4.2 Design System
+A consistent design system has been established, using a cohesive color scheme, typography, and iconography. Accessibility features ensure inclusivity for all users. User preferences for a clean, simple interface have been addressed, enhancing navigation and decision-making.
+
+CHAPTER 5: CONCLUSION
+5.1 Conclusion
+The internship at Figma has been a pivotal learning experience in web design, focusing on website redesign. Challenges in text and image alignment were successfully tackled, leveraging Figma for skill enhancement. This internship deepened technical proficiency and creativity in digital design, preparing for future contributions to UX/UI development.
+
+
+
+FIGMA LINK: https://www.figma.com/design/jyklfaBnvxBeftei0lYDt1/nike?node-id=0-1&t=RBmEsgzWUoM6LNPa-1
+
+REFERENCES: 1)	https://www.nike.com/in/
+            2)	https://www.figma.com/
+            3)	https://icons8.com/
+            4)	https://youtu.be/ezldKx-jPag?si=VAFnpy4tuDT_u-dv
+
